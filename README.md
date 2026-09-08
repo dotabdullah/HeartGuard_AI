@@ -2,7 +2,7 @@
 
 <video controls width="100%" playsinline>
   <source src="presentation/HeartGuard_AI.mp4" type="video/mp4">
-  Your browser does not support the video tag.
+  Your browser does not support the video tag. please change the browser.
 </video>
 
 **HeartGuard AI - Heart Disease Risk Prediction System**
