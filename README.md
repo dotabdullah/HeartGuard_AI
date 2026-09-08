@@ -1,8 +1,6 @@
-# HeartGuard AI
+# HeartGuard AI - Heart Disease Risk Prediction System
 
 [![Watch Demo](presentation/thumbnail.png)](presentation/HeartGuard_AI.mp4)
-
-**HeartGuard AI - Heart Disease Risk Prediction System**
 
 HeartGuard AI is an educational machine-learning application that estimates a patient's heart disease risk from demographic, vital, laboratory, exercise, ECG, and cardiac-test information.
 
