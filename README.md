@@ -1,6 +1,9 @@
 # HeartGuard AI
 
-## Solution Name
+<video controls width="100%" playsinline>
+  <source src="presentation/HeartGuard_AI.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 **HeartGuard AI - Heart Disease Risk Prediction System**
 
