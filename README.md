@@ -6,6 +6,9 @@ HeartGuard AI is an educational machine-learning application that estimates a pa
 
 > This project is for educational and demonstration purposes only. Its output is a model-based estimate, not a medical diagnosis or a substitute for professional medical advice.
 
+Live App URL: https://heartguard-ai-predict.streamlit.app/
+Live API Test: https://heartguard-api.fastapicloud.dev/docs
+
 ## The Problem
 
 Heart disease risk depends on multiple patient indicators rather than a single measurement. Reviewing these values together can be difficult in a simple form or manual workflow.
